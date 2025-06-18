@@ -18,8 +18,8 @@ module.exports = function (wss) {
 
     try {
       const STATIC_CREATOR = 'e9fb6d76-5f4b-46a5-adf2-454bd0e73605';
-randomDisaster.created_by = STATIC_CREATOR;
-      const response = await axios.post('http://localhost:432/api/disasters', randomDisaster);
+      randomDisaster.created_by = STATIC_CREATOR;
+      const response = await axios.post('https://citymall-sldm.onrender.com/api/disasters', randomDisaster);
       const posted = response.data[0];
 
       console.log('✅ Posted:', posted.title);
@@ -39,5 +39,5 @@ randomDisaster.created_by = STATIC_CREATOR;
   };
 
   postMockDisaster(); // run immediately
-  setInterval(postMockDisaster,5 * 20 * 1000); // every 5 minutes
+  setInterval(postMockDisaster, 5 * 20 * 1000); // every 5 minutes
 };

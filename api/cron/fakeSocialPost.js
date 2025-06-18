@@ -8,7 +8,7 @@ const postMockDisaster = async () => {
   console.log('🚨 Posting random mock disaster...');
 
   try {
-    const response = await axios.post('http://localhost:432/api/disasters', randomDisaster);
+    const response = await axios.post('https://citymall-sldm.onrender.com/api/disasters', randomDisaster);
     console.log('✅ Posted:', response.data[0].title);
   } catch (error) {
     console.error('❌ Error posting:', error.message);
