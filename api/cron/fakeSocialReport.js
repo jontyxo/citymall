@@ -39,5 +39,5 @@ module.exports = function (wss) {
   };
 
   postMockDisaster(); // run immediately
-  setInterval(postMockDisaster, 5 * 20 * 1000); // every 5 minutes
+  setInterval(postMockDisaster, 5 * 60 * 1000); // every 5 minutes
 };
