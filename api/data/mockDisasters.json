@@ -1,0 +1,4002 @@
+[
+  {
+    "title": "Blackout in Cape Town, South Africa",
+    "description": "Blackout reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Surat, India",
+    "description": "Earthquake reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Delhi, India",
+    "description": "Tornado reported in Delhi, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Tashkent, Uzbekistan",
+    "description": "Hurricane reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Hurricane in Warsaw, Poland",
+    "description": "Hurricane reported in Warsaw, Poland. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Chennai, India",
+    "description": "Drought reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Zagreb, Croatia",
+    "description": "Blackout reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Explosion in Kathmandu, Nepal",
+    "description": "Explosion reported in Kathmandu, Nepal. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Hyderabad, India",
+    "description": "Bridge Collapse reported in Hyderabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in San Salvador, El Salvador",
+    "description": "Wildfire reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Lucknow, India",
+    "description": "Blackout reported in Lucknow, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Patna, India",
+    "description": "Bridge Collapse reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Rio de Janeiro, Brazil",
+    "description": "Hurricane reported in Rio de Janeiro, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Damascus, Syria",
+    "description": "Drought reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Tornado in San Juan, Puerto Rico",
+    "description": "Tornado reported in San Juan, Puerto Rico. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Blackout in Imphal, India",
+    "description": "Blackout reported in Imphal, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Tashkent, Uzbekistan",
+    "description": "Bridge Collapse reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Madrid, Spain",
+    "description": "Drought reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Skopje, North Macedonia",
+    "description": "Landslide reported in Skopje, North Macedonia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Tornado in Budapest, Hungary",
+    "description": "Tornado reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Delhi, India",
+    "description": "Explosion reported in Delhi, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Zurich, Switzerland",
+    "description": "Explosion reported in Zurich, Switzerland. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Yerevan, Armenia",
+    "description": "Flood reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Delhi, India",
+    "description": "Earthquake reported in Delhi, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Paris, France",
+    "description": "Drought reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Paris, France",
+    "description": "Hurricane reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Lima, Peru",
+    "description": "Landslide reported in Lima, Peru. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Baku, Azerbaijan",
+    "description": "Drought reported in Baku, Azerbaijan. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Hanoi, Vietnam",
+    "description": "Flood reported in Hanoi, Vietnam. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Tornado in Los Angeles, USA",
+    "description": "Tornado reported in Los Angeles, USA. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Panama City, Panama",
+    "description": "Flood reported in Panama City, Panama. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Tbilisi, Georgia",
+    "description": "Wildfire reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Hurricane in Doha, Qatar",
+    "description": "Hurricane reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Yerevan, Armenia",
+    "description": "Landslide reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Surat, India",
+    "description": "Hurricane reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Lagos, Nigeria",
+    "description": "Landslide reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Montevideo, Uruguay",
+    "description": "Wildfire reported in Montevideo, Uruguay. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Buenos Aires, Argentina",
+    "description": "Explosion reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Lagos, Nigeria",
+    "description": "Blackout reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Copenhagen, Denmark",
+    "description": "Bridge Collapse reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Tunis, Tunisia",
+    "description": "Blackout reported in Tunis, Tunisia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Shanghai, China",
+    "description": "Earthquake reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Guwahati, India",
+    "description": "Drought reported in Guwahati, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in Seoul, South Korea",
+    "description": "Wildfire reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Chennai, India",
+    "description": "Bridge Collapse reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Brussels, Belgium",
+    "description": "Tornado reported in Brussels, Belgium. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Tornado in Rome, Italy",
+    "description": "Tornado reported in Rome, Italy. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Tornado in Indore, India",
+    "description": "Tornado reported in Indore, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Tunis, Tunisia",
+    "description": "Bridge Collapse reported in Tunis, Tunisia. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Brasília, Brazil",
+    "description": "Flood reported in Brasília, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Karachi, Pakistan",
+    "description": "Bridge Collapse reported in Karachi, Pakistan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Thimphu, Bhutan",
+    "description": "Hurricane reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Hurricane in Belgrade, Serbia",
+    "description": "Hurricane reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Buenos Aires, Argentina",
+    "description": "Earthquake reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Kolkata, India",
+    "description": "Bridge Collapse reported in Kolkata, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Jakarta, Indonesia",
+    "description": "Wildfire reported in Jakarta, Indonesia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Berlin, Germany",
+    "description": "Bridge Collapse reported in Berlin, Germany. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Baghdad, Iraq",
+    "description": "Earthquake reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Seoul, South Korea",
+    "description": "Landslide reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Baghdad, Iraq",
+    "description": "Explosion reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Lucknow, India",
+    "description": "Drought reported in Lucknow, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Moscow, Russia",
+    "description": "Flood reported in Moscow, Russia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Tornado in Porto, Portugal",
+    "description": "Tornado reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Earthquake in New York, USA",
+    "description": "Earthquake reported in New York, USA. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Tbilisi, Georgia",
+    "description": "Wildfire reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Lucknow, India",
+    "description": "Blackout reported in Lucknow, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Hurricane in Porto, Portugal",
+    "description": "Hurricane reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Flood in Yerevan, Armenia",
+    "description": "Flood reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Patna, India",
+    "description": "Bridge Collapse reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in San Francisco, USA",
+    "description": "Landslide reported in San Francisco, USA. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Kuala Lumpur, Malaysia",
+    "description": "Wildfire reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Minsk, Belarus",
+    "description": "Landslide reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Landslide in Rome, Italy",
+    "description": "Landslide reported in Rome, Italy. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Dhaka, Bangladesh",
+    "description": "Drought reported in Dhaka, Bangladesh. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in Patna, India",
+    "description": "Earthquake reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Chicago, USA",
+    "description": "Wildfire reported in Chicago, USA. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Indore, India",
+    "description": "Blackout reported in Indore, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Hurricane in Minsk, Belarus",
+    "description": "Hurricane reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Tehran, Iran",
+    "description": "Earthquake reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Amman, Jordan",
+    "description": "Landslide reported in Amman, Jordan. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Baghdad, Iraq",
+    "description": "Wildfire reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Seoul, South Korea",
+    "description": "Flood reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Zagreb, Croatia",
+    "description": "Bridge Collapse reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Dhaka, Bangladesh",
+    "description": "Blackout reported in Dhaka, Bangladesh. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Tornado in Cape Town, South Africa",
+    "description": "Tornado reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Tbilisi, Georgia",
+    "description": "Explosion reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in San Salvador, El Salvador",
+    "description": "Wildfire reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Athens, Greece",
+    "description": "Flood reported in Athens, Greece. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Bangkok, Thailand",
+    "description": "Bridge Collapse reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Prague, Czech Republic",
+    "description": "Tornado reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Baghdad, Iraq",
+    "description": "Explosion reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Tashkent, Uzbekistan",
+    "description": "Wildfire reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Kanpur, India",
+    "description": "Landslide reported in Kanpur, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Landslide in Stockholm, Sweden",
+    "description": "Landslide reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Blackout in San Salvador, El Salvador",
+    "description": "Blackout reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Tornado in Kathmandu, Nepal",
+    "description": "Tornado reported in Kathmandu, Nepal. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Porto, Portugal",
+    "description": "Drought reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in Havana, Cuba",
+    "description": "Earthquake reported in Havana, Cuba. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Mexico City, Mexico",
+    "description": "Tornado reported in Mexico City, Mexico. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Oslo, Norway",
+    "description": "Explosion reported in Oslo, Norway. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Dubai, UAE",
+    "description": "Flood reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Prague, Czech Republic",
+    "description": "Earthquake reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in San Juan, Puerto Rico",
+    "description": "Flood reported in San Juan, Puerto Rico. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Tornado in Paris, France",
+    "description": "Tornado reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Cairo, Egypt",
+    "description": "Flood reported in Cairo, Egypt. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Cape Town, South Africa",
+    "description": "Wildfire reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Earthquake in Bangkok, Thailand",
+    "description": "Earthquake reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Tokyo, Japan",
+    "description": "Explosion reported in Tokyo, Japan. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Barcelona, Spain",
+    "description": "Hurricane reported in Barcelona, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Wildfire in Melbourne, Australia",
+    "description": "Wildfire reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Warsaw, Poland",
+    "description": "Blackout reported in Warsaw, Poland. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Damascus, Syria",
+    "description": "Earthquake reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Colombo, Sri Lanka",
+    "description": "Blackout reported in Colombo, Sri Lanka. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Bangalore, India",
+    "description": "Drought reported in Bangalore, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Rio de Janeiro, Brazil",
+    "description": "Hurricane reported in Rio de Janeiro, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Hanoi, Vietnam",
+    "description": "Drought reported in Hanoi, Vietnam. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Drought in Madrid, Spain",
+    "description": "Drought reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Vienna, Austria",
+    "description": "Flood reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Addis Ababa, Ethiopia",
+    "description": "Wildfire reported in Addis Ababa, Ethiopia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Drought in Toronto, Canada",
+    "description": "Drought reported in Toronto, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Kampala, Uganda",
+    "description": "Blackout reported in Kampala, Uganda. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Flood in Prague, Czech Republic",
+    "description": "Flood reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Lagos, Nigeria",
+    "description": "Blackout reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Hurricane in London, UK",
+    "description": "Hurricane reported in London, UK. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Kanpur, India",
+    "description": "Landslide reported in Kanpur, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Madrid, Spain",
+    "description": "Explosion reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Kuala Lumpur, Malaysia",
+    "description": "Flood reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Drought in Manila, Philippines",
+    "description": "Drought reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in Shillong, India",
+    "description": "Earthquake reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Kolkata, India",
+    "description": "Landslide reported in Kolkata, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Los Angeles, USA",
+    "description": "Hurricane reported in Los Angeles, USA. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Tbilisi, Georgia",
+    "description": "Drought reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Explosion in Amsterdam, Netherlands",
+    "description": "Explosion reported in Amsterdam, Netherlands. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Kolkata, India",
+    "description": "Flood reported in Kolkata, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Baghdad, Iraq",
+    "description": "Bridge Collapse reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Sydney, Australia",
+    "description": "Flood reported in Sydney, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Jakarta, Indonesia",
+    "description": "Landslide reported in Jakarta, Indonesia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Guwahati, India",
+    "description": "Explosion reported in Guwahati, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Surat, India",
+    "description": "Landslide reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Zagreb, Croatia",
+    "description": "Explosion reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Surat, India",
+    "description": "Tornado reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Landslide in Sydney, Australia",
+    "description": "Landslide reported in Sydney, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Bangkok, Thailand",
+    "description": "Hurricane reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Tehran, Iran",
+    "description": "Earthquake reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Budapest, Hungary",
+    "description": "Blackout reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Landslide in Amman, Jordan",
+    "description": "Landslide reported in Amman, Jordan. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Flood in New York, USA",
+    "description": "Flood reported in New York, USA. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Tornado in Kabul, Afghanistan",
+    "description": "Tornado reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Kanpur, India",
+    "description": "Hurricane reported in Kanpur, India. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Blackout in Vienna, Austria",
+    "description": "Blackout reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Istanbul, Turkey",
+    "description": "Blackout reported in Istanbul, Turkey. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Montevideo, Uruguay",
+    "description": "Wildfire reported in Montevideo, Uruguay. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Lima, Peru",
+    "description": "Wildfire reported in Lima, Peru. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Tunis, Tunisia",
+    "description": "Flood reported in Tunis, Tunisia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Hurricane in Manila, Philippines",
+    "description": "Hurricane reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Flood in Algiers, Algeria",
+    "description": "Flood reported in Algiers, Algeria. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Vienna, Austria",
+    "description": "Bridge Collapse reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Tehran, Iran",
+    "description": "Tornado reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Earthquake in Shanghai, China",
+    "description": "Earthquake reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Warsaw, Poland",
+    "description": "Landslide reported in Warsaw, Poland. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Earthquake in Tashkent, Uzbekistan",
+    "description": "Earthquake reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Zagreb, Croatia",
+    "description": "Explosion reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Kuala Lumpur, Malaysia",
+    "description": "Bridge Collapse reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in London, UK",
+    "description": "Tornado reported in London, UK. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Warsaw, Poland",
+    "description": "Flood reported in Warsaw, Poland. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Shillong, India",
+    "description": "Bridge Collapse reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Zagreb, Croatia",
+    "description": "Hurricane reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Zagreb, Croatia",
+    "description": "Earthquake reported in Zagreb, Croatia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Bhopal, India",
+    "description": "Hurricane reported in Bhopal, India. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Kolkata, India",
+    "description": "Drought reported in Kolkata, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Shillong, India",
+    "description": "Hurricane reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Ahmedabad, India",
+    "description": "Drought reported in Ahmedabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Jakarta, Indonesia",
+    "description": "Flood reported in Jakarta, Indonesia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Auckland, New Zealand",
+    "description": "Explosion reported in Auckland, New Zealand. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Minsk, Belarus",
+    "description": "Blackout reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Tornado in Melbourne, Australia",
+    "description": "Tornado reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Wildfire in New York, USA",
+    "description": "Wildfire reported in New York, USA. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Manila, Philippines",
+    "description": "Explosion reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Porto, Portugal",
+    "description": "Landslide reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Vienna, Austria",
+    "description": "Explosion reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Nairobi, Kenya",
+    "description": "Earthquake reported in Nairobi, Kenya. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Istanbul, Turkey",
+    "description": "Hurricane reported in Istanbul, Turkey. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Imphal, India",
+    "description": "Drought reported in Imphal, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Explosion in Baghdad, Iraq",
+    "description": "Explosion reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Copenhagen, Denmark",
+    "description": "Wildfire reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Shillong, India",
+    "description": "Blackout reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Tashkent, Uzbekistan",
+    "description": "Wildfire reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Hanoi, Vietnam",
+    "description": "Bridge Collapse reported in Hanoi, Vietnam. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Lagos, Nigeria",
+    "description": "Explosion reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Amsterdam, Netherlands",
+    "description": "Earthquake reported in Amsterdam, Netherlands. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Dubai, UAE",
+    "description": "Earthquake reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Buenos Aires, Argentina",
+    "description": "Landslide reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Dubai, UAE",
+    "description": "Bridge Collapse reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Riyadh, Saudi Arabia",
+    "description": "Explosion reported in Riyadh, Saudi Arabia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Mexico City, Mexico",
+    "description": "Flood reported in Mexico City, Mexico. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Tornado in Patna, India",
+    "description": "Tornado reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Tornado in Bangalore, India",
+    "description": "Tornado reported in Bangalore, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Lima, Peru",
+    "description": "Flood reported in Lima, Peru. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Delhi, India",
+    "description": "Explosion reported in Delhi, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Prague, Czech Republic",
+    "description": "Bridge Collapse reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Yerevan, Armenia",
+    "description": "Flood reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Belgrade, Serbia",
+    "description": "Landslide reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Tornado in Tehran, Iran",
+    "description": "Tornado reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Ahmedabad, India",
+    "description": "Flood reported in Ahmedabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Muscat, Oman",
+    "description": "Explosion reported in Muscat, Oman. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Guatemala City, Guatemala",
+    "description": "Explosion reported in Guatemala City, Guatemala. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Surat, India",
+    "description": "Blackout reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Skopje, North Macedonia",
+    "description": "Blackout reported in Skopje, North Macedonia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Cape Town, South Africa",
+    "description": "Wildfire reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Brasília, Brazil",
+    "description": "Blackout reported in Brasília, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Manila, Philippines",
+    "description": "Wildfire reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Chennai, India",
+    "description": "Landslide reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Earthquake in Minsk, Belarus",
+    "description": "Earthquake reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Copenhagen, Denmark",
+    "description": "Explosion reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Indore, India",
+    "description": "Drought reported in Indore, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in Tbilisi, Georgia",
+    "description": "Wildfire reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Earthquake in Budapest, Hungary",
+    "description": "Earthquake reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Shillong, India",
+    "description": "Tornado reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Porto, Portugal",
+    "description": "Flood reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Damascus, Syria",
+    "description": "Wildfire reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Shanghai, China",
+    "description": "Explosion reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Melbourne, Australia",
+    "description": "Earthquake reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Dhaka, Bangladesh",
+    "description": "Blackout reported in Dhaka, Bangladesh. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Flood in Manila, Philippines",
+    "description": "Flood reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Bhopal, India",
+    "description": "Earthquake reported in Bhopal, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Thimphu, Bhutan",
+    "description": "Bridge Collapse reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Dubai, UAE",
+    "description": "Flood reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Flood in Doha, Qatar",
+    "description": "Flood reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Athens, Greece",
+    "description": "Landslide reported in Athens, Greece. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Stockholm, Sweden",
+    "description": "Explosion reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Chennai, India",
+    "description": "Flood reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Cairo, Egypt",
+    "description": "Blackout reported in Cairo, Egypt. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Casablanca, Morocco",
+    "description": "Wildfire reported in Casablanca, Morocco. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Cape Town, South Africa",
+    "description": "Landslide reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Baku, Azerbaijan",
+    "description": "Explosion reported in Baku, Azerbaijan. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Lima, Peru",
+    "description": "Wildfire reported in Lima, Peru. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Melbourne, Australia",
+    "description": "Wildfire reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Sydney, Australia",
+    "description": "Explosion reported in Sydney, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Sofia, Bulgaria",
+    "description": "Tornado reported in Sofia, Bulgaria. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Blackout in Manila, Philippines",
+    "description": "Blackout reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Hyderabad, India",
+    "description": "Wildfire reported in Hyderabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Buenos Aires, Argentina",
+    "description": "Blackout reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Landslide in Tashkent, Uzbekistan",
+    "description": "Landslide reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Earthquake in Los Angeles, USA",
+    "description": "Earthquake reported in Los Angeles, USA. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Guwahati, India",
+    "description": "Earthquake reported in Guwahati, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Istanbul, Turkey",
+    "description": "Flood reported in Istanbul, Turkey. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Drought in Paris, France",
+    "description": "Drought reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Guwahati, India",
+    "description": "Landslide reported in Guwahati, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Oslo, Norway",
+    "description": "Wildfire reported in Oslo, Norway. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Shillong, India",
+    "description": "Wildfire reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Melbourne, Australia",
+    "description": "Flood reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Melbourne, Australia",
+    "description": "Blackout reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Amsterdam, Netherlands",
+    "description": "Blackout reported in Amsterdam, Netherlands. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Beijing, China",
+    "description": "Bridge Collapse reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Stockholm, Sweden",
+    "description": "Landslide reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Shillong, India",
+    "description": "Drought reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in Vienna, Austria",
+    "description": "Wildfire reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Amman, Jordan",
+    "description": "Bridge Collapse reported in Amman, Jordan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Shanghai, China",
+    "description": "Landslide reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Blackout in Seoul, South Korea",
+    "description": "Blackout reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Stockholm, Sweden",
+    "description": "Drought reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Rio de Janeiro, Brazil",
+    "description": "Hurricane reported in Rio de Janeiro, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Tornado in Cape Town, South Africa",
+    "description": "Tornado reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Blackout in Seoul, South Korea",
+    "description": "Blackout reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Landslide in Baku, Azerbaijan",
+    "description": "Landslide reported in Baku, Azerbaijan. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Prague, Czech Republic",
+    "description": "Wildfire reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Hurricane in Kuala Lumpur, Malaysia",
+    "description": "Hurricane reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Flood in Chicago, USA",
+    "description": "Flood reported in Chicago, USA. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Porto, Portugal",
+    "description": "Blackout reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Toronto, Canada",
+    "description": "Drought reported in Toronto, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Thimphu, Bhutan",
+    "description": "Blackout reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Landslide in Vienna, Austria",
+    "description": "Landslide reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Beijing, China",
+    "description": "Drought reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in San Salvador, El Salvador",
+    "description": "Wildfire reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Buenos Aires, Argentina",
+    "description": "Landslide reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Addis Ababa, Ethiopia",
+    "description": "Drought reported in Addis Ababa, Ethiopia. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Buenos Aires, Argentina",
+    "description": "Landslide reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Landslide in Kanpur, India",
+    "description": "Landslide reported in Kanpur, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Kampala, Uganda",
+    "description": "Wildfire reported in Kampala, Uganda. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Kathmandu, Nepal",
+    "description": "Landslide reported in Kathmandu, Nepal. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Wildfire in Seoul, South Korea",
+    "description": "Wildfire reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Tornado in Mexico City, Mexico",
+    "description": "Tornado reported in Mexico City, Mexico. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Flood in Cairo, Egypt",
+    "description": "Flood reported in Cairo, Egypt. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Algiers, Algeria",
+    "description": "Bridge Collapse reported in Algiers, Algeria. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Tokyo, Japan",
+    "description": "Wildfire reported in Tokyo, Japan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Drought in Copenhagen, Denmark",
+    "description": "Drought reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Doha, Qatar",
+    "description": "Blackout reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Tornado in Moscow, Russia",
+    "description": "Tornado reported in Moscow, Russia. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Minsk, Belarus",
+    "description": "Drought reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Drought in Kabul, Afghanistan",
+    "description": "Drought reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Stockholm, Sweden",
+    "description": "Blackout reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Belgrade, Serbia",
+    "description": "Bridge Collapse reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in London, UK",
+    "description": "Landslide reported in London, UK. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Earthquake in Damascus, Syria",
+    "description": "Earthquake reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Manila, Philippines",
+    "description": "Drought reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Helsinki, Finland",
+    "description": "Blackout reported in Helsinki, Finland. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Amman, Jordan",
+    "description": "Blackout reported in Amman, Jordan. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Explosion in Bangkok, Thailand",
+    "description": "Explosion reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Vienna, Austria",
+    "description": "Wildfire reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Algiers, Algeria",
+    "description": "Wildfire reported in Algiers, Algeria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Kabul, Afghanistan",
+    "description": "Wildfire reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Guatemala City, Guatemala",
+    "description": "Wildfire reported in Guatemala City, Guatemala. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Vienna, Austria",
+    "description": "Landslide reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Toronto, Canada",
+    "description": "Hurricane reported in Toronto, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Flood in Tashkent, Uzbekistan",
+    "description": "Flood reported in Tashkent, Uzbekistan. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Riyadh, Saudi Arabia",
+    "description": "Landslide reported in Riyadh, Saudi Arabia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in San Salvador, El Salvador",
+    "description": "Explosion reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Baku, Azerbaijan",
+    "description": "Blackout reported in Baku, Azerbaijan. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Colombo, Sri Lanka",
+    "description": "Drought reported in Colombo, Sri Lanka. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Rio de Janeiro, Brazil",
+    "description": "Landslide reported in Rio de Janeiro, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Flood in Buenos Aires, Argentina",
+    "description": "Flood reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Bangalore, India",
+    "description": "Explosion reported in Bangalore, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Damascus, Syria",
+    "description": "Blackout reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Cape Town, South Africa",
+    "description": "Drought reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Riyadh, Saudi Arabia",
+    "description": "Hurricane reported in Riyadh, Saudi Arabia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Melbourne, Australia",
+    "description": "Landslide reported in Melbourne, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Tornado in Beijing, China",
+    "description": "Tornado reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Baghdad, Iraq",
+    "description": "Drought reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Bangalore, India",
+    "description": "Blackout reported in Bangalore, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Flood in Amman, Jordan",
+    "description": "Flood reported in Amman, Jordan. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Belgrade, Serbia",
+    "description": "Explosion reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in San Francisco, USA",
+    "description": "Earthquake reported in San Francisco, USA. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Berlin, Germany",
+    "description": "Flood reported in Berlin, Germany. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Flood in Amsterdam, Netherlands",
+    "description": "Flood reported in Amsterdam, Netherlands. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Brussels, Belgium",
+    "description": "Earthquake reported in Brussels, Belgium. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Hyderabad, India",
+    "description": "Tornado reported in Hyderabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Montevideo, Uruguay",
+    "description": "Explosion reported in Montevideo, Uruguay. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Guatemala City, Guatemala",
+    "description": "Hurricane reported in Guatemala City, Guatemala. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Surat, India",
+    "description": "Earthquake reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Patna, India",
+    "description": "Landslide reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Budapest, Hungary",
+    "description": "Explosion reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Minsk, Belarus",
+    "description": "Earthquake reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Casablanca, Morocco",
+    "description": "Landslide reported in Casablanca, Morocco. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Landslide in Istanbul, Turkey",
+    "description": "Landslide reported in Istanbul, Turkey. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Delhi, India",
+    "description": "Drought reported in Delhi, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in San Salvador, El Salvador",
+    "description": "Earthquake reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Surat, India",
+    "description": "Tornado reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Blackout in Reykjavik, Iceland",
+    "description": "Blackout reported in Reykjavik, Iceland. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in New York, USA",
+    "description": "Blackout reported in New York, USA. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Doha, Qatar",
+    "description": "Bridge Collapse reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Chicago, USA",
+    "description": "Blackout reported in Chicago, USA. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Flood in Kabul, Afghanistan",
+    "description": "Flood reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Damascus, Syria",
+    "description": "Blackout reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Landslide in Vienna, Austria",
+    "description": "Landslide reported in Vienna, Austria. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Tehran, Iran",
+    "description": "Hurricane reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Reykjavik, Iceland",
+    "description": "Earthquake reported in Reykjavik, Iceland. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Sofia, Bulgaria",
+    "description": "Tornado reported in Sofia, Bulgaria. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Wildfire in Lisbon, Portugal",
+    "description": "Wildfire reported in Lisbon, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Lima, Peru",
+    "description": "Wildfire reported in Lima, Peru. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Berlin, Germany",
+    "description": "Explosion reported in Berlin, Germany. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Ahmedabad, India",
+    "description": "Earthquake reported in Ahmedabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Chicago, USA",
+    "description": "Drought reported in Chicago, USA. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in Thimphu, Bhutan",
+    "description": "Wildfire reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Tornado in Budapest, Hungary",
+    "description": "Tornado reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Manila, Philippines",
+    "description": "Drought reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Tornado in Thimphu, Bhutan",
+    "description": "Tornado reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Tornado in Riyadh, Saudi Arabia",
+    "description": "Tornado reported in Riyadh, Saudi Arabia. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Landslide in Athens, Greece",
+    "description": "Landslide reported in Athens, Greece. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Panama City, Panama",
+    "description": "Explosion reported in Panama City, Panama. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Minsk, Belarus",
+    "description": "Explosion reported in Minsk, Belarus. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Porto, Portugal",
+    "description": "Hurricane reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Cairo, Egypt",
+    "description": "Drought reported in Cairo, Egypt. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Drought in Bangkok, Thailand",
+    "description": "Drought reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in Belgrade, Serbia",
+    "description": "Earthquake reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Stockholm, Sweden",
+    "description": "Landslide reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Doha, Qatar",
+    "description": "Bridge Collapse reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Prague, Czech Republic",
+    "description": "Blackout reported in Prague, Czech Republic. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Tbilisi, Georgia",
+    "description": "Blackout reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Nairobi, Kenya",
+    "description": "Bridge Collapse reported in Nairobi, Kenya. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Berlin, Germany",
+    "description": "Blackout reported in Berlin, Germany. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Tornado in San Juan, Puerto Rico",
+    "description": "Tornado reported in San Juan, Puerto Rico. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Tornado in Amsterdam, Netherlands",
+    "description": "Tornado reported in Amsterdam, Netherlands. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Yerevan, Armenia",
+    "description": "Hurricane reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Landslide in Chicago, USA",
+    "description": "Landslide reported in Chicago, USA. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Flood in Seoul, South Korea",
+    "description": "Flood reported in Seoul, South Korea. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Baghdad, Iraq",
+    "description": "Blackout reported in Baghdad, Iraq. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Lagos, Nigeria",
+    "description": "Blackout reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Tehran, Iran",
+    "description": "Earthquake reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Rome, Italy",
+    "description": "Explosion reported in Rome, Italy. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Kuala Lumpur, Malaysia",
+    "description": "Drought reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Tornado in Stockholm, Sweden",
+    "description": "Tornado reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Wildfire in Addis Ababa, Ethiopia",
+    "description": "Wildfire reported in Addis Ababa, Ethiopia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Kabul, Afghanistan",
+    "description": "Wildfire reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Hurricane in Athens, Greece",
+    "description": "Hurricane reported in Athens, Greece. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Blackout in Beijing, China",
+    "description": "Blackout reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Wildfire in Kabul, Afghanistan",
+    "description": "Wildfire reported in Kabul, Afghanistan. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Rome, Italy",
+    "description": "Blackout reported in Rome, Italy. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Reykjavik, Iceland",
+    "description": "Earthquake reported in Reykjavik, Iceland. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Copenhagen, Denmark",
+    "description": "Landslide reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Earthquake in Brussels, Belgium",
+    "description": "Earthquake reported in Brussels, Belgium. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Hurricane in Madrid, Spain",
+    "description": "Hurricane reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Wildfire in Damascus, Syria",
+    "description": "Wildfire reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Patna, India",
+    "description": "Wildfire reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Rome, Italy",
+    "description": "Wildfire reported in Rome, Italy. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Karachi, Pakistan",
+    "description": "Bridge Collapse reported in Karachi, Pakistan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Porto, Portugal",
+    "description": "Tornado reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Kuala Lumpur, Malaysia",
+    "description": "Hurricane reported in Kuala Lumpur, Malaysia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Hurricane in Paris, France",
+    "description": "Hurricane reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Tornado in Chennai, India",
+    "description": "Tornado reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Colombo, Sri Lanka",
+    "description": "Hurricane reported in Colombo, Sri Lanka. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Drought in Cape Town, South Africa",
+    "description": "Drought reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Wildfire in Sofia, Bulgaria",
+    "description": "Wildfire reported in Sofia, Bulgaria. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Explosion in Surat, India",
+    "description": "Explosion reported in Surat, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Santiago, Chile",
+    "description": "Landslide reported in Santiago, Chile. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Tornado in Brussels, Belgium",
+    "description": "Tornado reported in Brussels, Belgium. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Earthquake in Brasília, Brazil",
+    "description": "Earthquake reported in Brasília, Brazil. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Damascus, Syria",
+    "description": "Flood reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Panama City, Panama",
+    "description": "Earthquake reported in Panama City, Panama. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Skopje, North Macedonia",
+    "description": "Earthquake reported in Skopje, North Macedonia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Riyadh, Saudi Arabia",
+    "description": "Explosion reported in Riyadh, Saudi Arabia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Copenhagen, Denmark",
+    "description": "Drought reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Baku, Azerbaijan",
+    "description": "Bridge Collapse reported in Baku, Azerbaijan. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Pune, India",
+    "description": "Flood reported in Pune, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Casablanca, Morocco",
+    "description": "Landslide reported in Casablanca, Morocco. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Flood in Moscow, Russia",
+    "description": "Flood reported in Moscow, Russia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Karachi, Pakistan",
+    "description": "Landslide reported in Karachi, Pakistan. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Imphal, India",
+    "description": "Bridge Collapse reported in Imphal, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Hyderabad, India",
+    "description": "Drought reported in Hyderabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Dubai, UAE",
+    "description": "Blackout reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Explosion in San Salvador, El Salvador",
+    "description": "Explosion reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Dhaka, Bangladesh",
+    "description": "Tornado reported in Dhaka, Bangladesh. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Wildfire in Belgrade, Serbia",
+    "description": "Wildfire reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Blackout in Yerevan, Armenia",
+    "description": "Blackout reported in Yerevan, Armenia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Flood in Bangkok, Thailand",
+    "description": "Flood reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Colombo, Sri Lanka",
+    "description": "Wildfire reported in Colombo, Sri Lanka. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Cairo, Egypt",
+    "description": "Bridge Collapse reported in Cairo, Egypt. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Oslo, Norway",
+    "description": "Drought reported in Oslo, Norway. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Istanbul, Turkey",
+    "description": "Landslide reported in Istanbul, Turkey. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Sydney, Australia",
+    "description": "Hurricane reported in Sydney, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Tornado in Hyderabad, India",
+    "description": "Tornado reported in Hyderabad, India. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Barcelona, Spain",
+    "description": "Bridge Collapse reported in Barcelona, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Colombo, Sri Lanka",
+    "description": "Wildfire reported in Colombo, Sri Lanka. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Hanoi, Vietnam",
+    "description": "Flood reported in Hanoi, Vietnam. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Hurricane in San Salvador, El Salvador",
+    "description": "Hurricane reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Wildfire in Warsaw, Poland",
+    "description": "Wildfire reported in Warsaw, Poland. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Wildfire in Havana, Cuba",
+    "description": "Wildfire reported in Havana, Cuba. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Landslide in Tbilisi, Georgia",
+    "description": "Landslide reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Tornado in Algiers, Algeria",
+    "description": "Tornado reported in Algiers, Algeria. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Copenhagen, Denmark",
+    "description": "Drought reported in Copenhagen, Denmark. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Drought in San Juan, Puerto Rico",
+    "description": "Drought reported in San Juan, Puerto Rico. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Shillong, India",
+    "description": "Flood reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Blackout in Nairobi, Kenya",
+    "description": "Blackout reported in Nairobi, Kenya. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Blackout in Toronto, Canada",
+    "description": "Blackout reported in Toronto, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in London, UK",
+    "description": "Drought reported in London, UK. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Landslide in Auckland, New Zealand",
+    "description": "Landslide reported in Auckland, New Zealand. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Hurricane in Shanghai, China",
+    "description": "Hurricane reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Wildfire in Pune, India",
+    "description": "Wildfire reported in Pune, India. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Earthquake in Madrid, Spain",
+    "description": "Earthquake reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Dubai, UAE",
+    "description": "Blackout reported in Dubai, UAE. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Shillong, India",
+    "description": "Bridge Collapse reported in Shillong, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Manila, Philippines",
+    "description": "Landslide reported in Manila, Philippines. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in San Juan, Puerto Rico",
+    "description": "Drought reported in San Juan, Puerto Rico. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Drought in Toronto, Canada",
+    "description": "Drought reported in Toronto, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Flood in Tbilisi, Georgia",
+    "description": "Flood reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Wildfire in Doha, Qatar",
+    "description": "Wildfire reported in Doha, Qatar. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Earthquake in Tbilisi, Georgia",
+    "description": "Earthquake reported in Tbilisi, Georgia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Indore, India",
+    "description": "Blackout reported in Indore, India. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Earthquake in Jakarta, Indonesia",
+    "description": "Earthquake reported in Jakarta, Indonesia. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Shanghai, China",
+    "description": "Bridge Collapse reported in Shanghai, China. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Chennai, India",
+    "description": "Bridge Collapse reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Jakarta, Indonesia",
+    "description": "Landslide reported in Jakarta, Indonesia. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Landslide in Santiago, Chile",
+    "description": "Landslide reported in Santiago, Chile. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Drought in Casablanca, Morocco",
+    "description": "Drought reported in Casablanca, Morocco. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in New York, USA",
+    "description": "Earthquake reported in New York, USA. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Madrid, Spain",
+    "description": "Flood reported in Madrid, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Drought in Budapest, Hungary",
+    "description": "Drought reported in Budapest, Hungary. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Blackout in Paris, France",
+    "description": "Blackout reported in Paris, France. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Explosion in Sydney, Australia",
+    "description": "Explosion reported in Sydney, Australia. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Hanoi, Vietnam",
+    "description": "Wildfire reported in Hanoi, Vietnam. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Tornado in Stockholm, Sweden",
+    "description": "Tornado reported in Stockholm, Sweden. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Drought in Beijing, China",
+    "description": "Drought reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Explosion in Buenos Aires, Argentina",
+    "description": "Explosion reported in Buenos Aires, Argentina. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Explosion in Tehran, Iran",
+    "description": "Explosion reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Drought in Porto, Portugal",
+    "description": "Drought reported in Porto, Portugal. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Hurricane in Vancouver, Canada",
+    "description": "Hurricane reported in Vancouver, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Flood in Chennai, India",
+    "description": "Flood reported in Chennai, India. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Explosion in Cape Town, South Africa",
+    "description": "Explosion reported in Cape Town, South Africa. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Tehran, Iran",
+    "description": "Blackout reported in Tehran, Iran. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Brussels, Belgium",
+    "description": "Drought reported in Brussels, Belgium. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Tornado in San Salvador, El Salvador",
+    "description": "Tornado reported in San Salvador, El Salvador. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Patna, India",
+    "description": "Explosion reported in Patna, India. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Landslide in Beijing, China",
+    "description": "Landslide reported in Beijing, China. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  },
+  {
+    "title": "Explosion in Vancouver, Canada",
+    "description": "Explosion reported in Vancouver, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Tunis, Tunisia",
+    "description": "Blackout reported in Tunis, Tunisia. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Drought in Tokyo, Japan",
+    "description": "Drought reported in Tokyo, Japan. Emergency services are being dispatched.",
+    "tags": [
+      "drought",
+      "warning"
+    ]
+  },
+  {
+    "title": "Earthquake in Bangalore, India",
+    "description": "Earthquake reported in Bangalore, India. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Blackout in Bangkok, Thailand",
+    "description": "Blackout reported in Bangkok, Thailand. Emergency services are being dispatched.",
+    "tags": [
+      "blackout",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Explosion in London, UK",
+    "description": "Explosion reported in London, UK. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Sofia, Bulgaria",
+    "description": "Tornado reported in Sofia, Bulgaria. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Hurricane in Thimphu, Bhutan",
+    "description": "Hurricane reported in Thimphu, Bhutan. Emergency services are being dispatched.",
+    "tags": [
+      "hurricane",
+      "storm"
+    ]
+  },
+  {
+    "title": "Earthquake in Vancouver, Canada",
+    "description": "Earthquake reported in Vancouver, Canada. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Bridge Collapse in Kathmandu, Nepal",
+    "description": "Bridge Collapse reported in Kathmandu, Nepal. Emergency services are being dispatched.",
+    "tags": [
+      "collapse",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Earthquake in Panama City, Panama",
+    "description": "Earthquake reported in Panama City, Panama. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Tornado in Damascus, Syria",
+    "description": "Tornado reported in Damascus, Syria. Emergency services are being dispatched.",
+    "tags": [
+      "tornado",
+      "alert"
+    ]
+  },
+  {
+    "title": "Explosion in Zurich, Switzerland",
+    "description": "Explosion reported in Zurich, Switzerland. Emergency services are being dispatched.",
+    "tags": [
+      "explosion",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Flood in Belgrade, Serbia",
+    "description": "Flood reported in Belgrade, Serbia. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Earthquake in Lagos, Nigeria",
+    "description": "Earthquake reported in Lagos, Nigeria. Emergency services are being dispatched.",
+    "tags": [
+      "earthquake",
+      "emergency"
+    ]
+  },
+  {
+    "title": "Wildfire in Barcelona, Spain",
+    "description": "Wildfire reported in Barcelona, Spain. Emergency services are being dispatched.",
+    "tags": [
+      "wildfire",
+      "fire"
+    ]
+  },
+  {
+    "title": "Flood in Santiago, Chile",
+    "description": "Flood reported in Santiago, Chile. Emergency services are being dispatched.",
+    "tags": [
+      "flood",
+      "evacuation"
+    ]
+  },
+  {
+    "title": "Landslide in Mexico City, Mexico",
+    "description": "Landslide reported in Mexico City, Mexico. Emergency services are being dispatched.",
+    "tags": [
+      "landslide",
+      "rescue"
+    ]
+  }
+]
