@@ -9,7 +9,7 @@ async function geocodeLocation(locationName) {
         limit: 1
       },
       headers: {
-        'User-Agent': 'disaster-response-app' // required by Nominatim
+        'User-Agent': 'disaster-response-app' 
       }
     });
 

@@ -3,7 +3,7 @@ const { geocodeLocation } = require('../geocode');
 const supabase = require('../supabaseClient');
 
 const createDisaster = async (req, res) => {
-  const { title, description, tags, created_by } = req.body; // ⬅️ include created_by
+  const { title, description, tags, created_by } = req.body; 
 
   try {
     const location_name = await extractLocationFromDescription(description);
@@ -24,7 +24,7 @@ const createDisaster = async (req, res) => {
           lat,
           lng,
           geolocation: `POINT(${lng} ${lat})`,
-          created_by // ⬅️ use from body
+          created_by 
         }
       ])
       .select();
@@ -45,7 +45,7 @@ const getNearbyDisasters = async (req, res) => {
     return res.status(400).json({ error: 'lat and lng are required' });
   }
 
-  const searchRadius = parseFloat(radius) || 10000; // default: 10 km
+  const searchRadius = parseFloat(radius) || 10000; 
 
   try {
     const { data, error } = await supabase.rpc('get_disasters_nearby', {
@@ -76,7 +76,7 @@ const getDisasters = async (req, res) => {
   res.json(data);
 };
 const deleteDisaster = async (req, res) => {
-  const { id } = req.params; // ← this is where it was failing
+  const { id } = req.params; 
 
   try {
     const { error } = await supabase
